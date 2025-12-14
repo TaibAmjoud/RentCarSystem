@@ -1,0 +1,1 @@
+Ce projet est une application Java en console permettant la gestion de deux types d’utilisateurs : Admin et Client. Il a été conçu dans un objectif pédagogique afin de pratiquer les bases de la programmation orientée objet
